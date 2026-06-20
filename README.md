@@ -18,3 +18,7 @@ A real-time hand tracking visual effects project built with **React**, **TypeScr
 - MediaPipe Hand Landmarker
 - HTML5 Canvas
 - CSS
+
+  ## Live Demo
+
+[Live Demo]([https://your-demo-link.vercel.app](https://agent-6a36c17db9fdc45dd4716--sunny-pothos-c11512.netlify.app/))
